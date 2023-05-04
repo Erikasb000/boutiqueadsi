@@ -1,3 +1,42 @@
-body{
-    background-color: coral;
+body {
+   background-color: coral;}
+
+#paguina-titulo{
+    text-align: center;
+
+
 }
+
+h1{
+    text-align: center; 
+}
+
+#menu li{
+    display: inline-block;
+}
+
+#menu a{
+
+    color: cadetblue;
+    background-color: beige;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+   
+}
+
+#menu {
+    text-align: center;
+
+}
+
+p{
+    
+    text-align: center;
+}
+
+
+main{
+    text-align: center;
+}
+
